@@ -8,6 +8,10 @@
 
 > git checkout <id-commit>      #để quay lại thời điểm commit
 
+-------------------------------
+> bước 1: npm init
+> bước 2: npm install --save--exact express@4.18.1
+
 
 --------------------------------
 
