@@ -10,9 +10,17 @@
 
 -------------------------------
 > bước 1: npm init
-> bước 2: npm install --save--exact express@4.18.1
+> bước 2: npm install --save--exact express@4.18.1 nodemon@2.0.18 body-parser
 
-
+npm i
+"dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "2.0.18",
+    "body-parser":"1.20.0",
+    "@babel/core": "7.18.5",
+    "@babel/node": "7.18.5",
+    "@babel/preset-env": "7.18.2"
+  }
 --------------------------------
 
 echo "# nodejs_basic_A_Z" >> README.md
