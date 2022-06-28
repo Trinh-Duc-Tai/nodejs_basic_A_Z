@@ -7,7 +7,7 @@
 > npm install
 
 > git checkout <id-commit>      #để quay lại thời điểm commit
-
+> git branch          #để check đang ở nhánh nào
 -------------------------------
 > bước 1: npm init
 > bước 2: npm install --save--exact express@4.18.1 nodemon@2.0.18 body-parser
@@ -30,3 +30,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Trinh-Duc-Tai/nodejs_basic_A_Z.git
 git push -u origin main
+
+------------------------------
+Ở file .env nếu có dấu # ở đầu thì file sẽ không được đọc
