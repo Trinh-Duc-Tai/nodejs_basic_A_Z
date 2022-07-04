@@ -33,3 +33,7 @@ git push -u origin main
 
 ------------------------------
 Ở file .env nếu có dấu # ở đầu thì file sẽ không được đọc
+
+---------------------
+CRUD: create | read | update | delete
+WEB:  POST   | GET  | PUT    | DELETE
